@@ -18,10 +18,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.madmaxmehdi44.miraslifeapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "777aa669-fc05-4b6c-9039-259ccda6a35a"
+      }
+    },
+    "owner": "madmaxmehdi44"
   }
 }
